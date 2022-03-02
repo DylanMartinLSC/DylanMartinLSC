@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DylanMartinLSC
-- 👀 I’m interested in Java and Golang projects.
+- 👀 I’m interested in Java and Flutter projects.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me dylanmartinlsc@gmail.com 
