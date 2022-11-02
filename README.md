@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DylanMartinLSC
-- 👀 I’m interested in Java and Flutter projects.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in Java, Kotlin and Flutter projects.
+- 🌱 I’m currently learning Android Development.
+- 💞️ I’m looking to collaborate on interesting Android projects.
 - 📫 How to reach me dylanmartinlsc@gmail.com 
 
 <!---
