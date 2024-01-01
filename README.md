@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DylanMartinLSC
-- 👀 I’m interested in Java, Kotlin and Flutter projects.
-- 🌱 I’m currently learning Android Development.
-- 💞️ I’m looking to collaborate on interesting Android projects.
+- 👀 I’m interested in mobile, machine learning and computer vision projects.
+- 🌱 I’m currently learning TensorFlow and Python.
+- 👨‍🎓 I'm a BS student in Comp Sci.
+- 💞️ I’m looking to collaborate on interesting Android and computer vision projects.
 - 📫 How to reach me dylanmartinlsc@gmail.com 
 
 <!---
