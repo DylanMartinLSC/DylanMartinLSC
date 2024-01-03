@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @DylanMartinLSC
+
+Working on some interesting ML and CV projects. Want to work together?
+
 - 👀 I’m interested in mobile, machine learning and computer vision projects.
 - 🌱 I’m currently learning TensorFlow and Python.
 - 👨‍🎓 I'm a BS student in Comp Sci.
