@@ -4,7 +4,6 @@ Working on some interesting ML and CV projects. Want to work together?
 
 - 👀 I’m interested in mobile, machine learning and computer vision projects.
 - 🌱 I’m currently learning TensorFlow and Python.
-- 👨‍🎓 I'm a BS student in Comp Sci.
 - 💞️ I’m looking to collaborate on interesting Android and computer vision projects.
 - 📫 How to reach me dylanmartinlsc@gmail.com 
 
